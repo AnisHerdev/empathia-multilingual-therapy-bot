@@ -1,1 +1,3 @@
 .env*
+phase2_finetuning_ran copy.ipynb
+*.zip
